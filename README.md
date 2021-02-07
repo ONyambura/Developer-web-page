@@ -11,6 +11,17 @@ Kurulum İşlemi tamamlanmıştır.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 Özellikler :
 
 Kendi Çalışmalarınızı Videodaki gibi resimlerle belirtebilirsiniz.
