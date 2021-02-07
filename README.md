@@ -1,23 +1,22 @@
-Bu eklenti nedir : Developerları Kendine Ait bir web sitesi yapması için yapılan bir çalışmadır.
+What is this plugin : It is a work done for the developers to make a website of Its Own.
 
-Kurulum :
+Setup  :
 
-Herhangibir Domain ve Webhost'a sahip olmanız gerekmektedir
+- You must have any Domain and Webhost.
 
-FileZilla'dan Subdomain açınız ve yüklediğiniz dosyayı içine atınız
+- Open Subdomain from FileZilla and drop the uploaded file into it
 
-Kurulum İşlemi tamamlanmıştır.
-
-Kurulum İşlemi tamamlanmıştır.
-
-Özellikler :
+- Installation Process is completed.
 
 
-Kendi Çalışmalarınızı Videodaki gibi resimlerle belirtebilirsiniz.
+Features of the Plugin :
 
-Kendinizi tanıtabilirsiniz.
 
-İndex.html'den kolayca düzenleyebilirsiniz.
+- You can indicate your own Works with pictures as in the Video
+
+- You can introduce yourself.
+
+- You can easily edit from index.html.
 
 
 
